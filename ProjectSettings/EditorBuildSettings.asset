@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: ebd4adf66372fc640b6ade8f03ae1062
+  - enabled: 1
+    path: Assets/choixMode.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/RecuperationNom.unity
+    guid: 0d05e40d6d34bea4ab9049d31cb556ab
+  - enabled: 1
+    path: Assets/boule.unity
+    guid: 551207c48ed87084291fd14ff07390e6
+  - enabled: 1
+    path: Assets/map 1v1.unity
+    guid: a63ca0af6ec4e4e448b5bd98b0077fa1
+  - enabled: 1
+    path: Assets/MenuFin.unity
+    guid: 518ae15054beadc459e15215a02d82a3
+  - enabled: 1
+    path: Assets/MenuFin2.unity
+    guid: a93e42ec6e5d71a46b8b4fb210a3ae3c
+  - enabled: 1
+    path: Assets/Credit.unity
+    guid: c7545965991de6e4abcaad282375ebbc
+  - enabled: 1
+    path: Assets/Regles.unity
+    guid: 44487ff146e088843902be65d4ee153c
