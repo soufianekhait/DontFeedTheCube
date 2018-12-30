@@ -2,7 +2,7 @@
 3D video game whose main goal is escaping randomly falling cubes. The game also implements a multiplayer mode.
 
 ### Prerequisites repositories
-- Download the three repositories (Assets, Library & SemaineSpe_Data) to make the game works.\Here is the link : 
+- Download the three repositories [Assets, Library & SemaineSpe_Data](http://link.fr) to make the game works.
 
 ### Getting started
-Use git or the download button (on the right) to download the game source code.\Open SemaineSpe.exe, the game should start.
+Use git or the download button (on the right) to download the game source code.<br>Open SemaineSpe.exe, the game should start.
