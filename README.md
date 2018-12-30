@@ -3,7 +3,7 @@
 
 ### Prerequisites repositories
 - Download the three repositories (Assets, Library & SemaineSpe_Data) to make the game works.
-Here is the link : 
+\nHere is the link : 
 
 ### Getting started
 Use git or the download button (on the right) to download the game source code.
